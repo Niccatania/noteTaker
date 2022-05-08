@@ -1,9 +1,10 @@
 # Note Taker
 
-  ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 
 # Deployed Heroku Link
-    https://morning-peak-43787.herokuapp.com/
+ https://morning-peak-43787.herokuapp.com/
+
 
   ### Table of Contents  
 
@@ -27,6 +28,8 @@ This application connects a front-end with the back-end server. It writes, and s
 Download code. Run npm I to install the dependencies. run node server.js to start up the local server.
 ## Usage:
 This project uses HTML, Javascript, Node.js, Express, and Heroku.
+![terminal](./assets/terminal.png)
+![website](./assets/addnote.png)
 ## Contributors:
 Nic Catania
 ## License
